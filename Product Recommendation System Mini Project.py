@@ -33,7 +33,7 @@ np.random.seed(0)
 
 # In[4]:
 
-#check
+#test
 
 #import the required libraries
 import numpy as np
